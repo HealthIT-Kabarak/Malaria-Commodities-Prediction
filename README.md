@@ -22,6 +22,6 @@ The restocking of Malaria commodities is currently done based on 6 month average
       
 ## 1.4 Challanges faced
     - There was a lot of consistency and redundancy and missing rows and this borrowed a lot of time in us data cleaning and feature engineering.
-    - The inconsistency in data made to difficult in us find an algorithm that could help in our model development
+    - The inconsistency in data made to difficult in us find an algorithm that could help in our model development.
 
       
