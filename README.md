@@ -1,10 +1,10 @@
 # Malaria-Commodities-Prediction
 
 ## 1.0 Devs Names
-  1. ROSE GITUNGO
-  2. EDWIN WACHIRA
-  3. PETER ROGENDO
-  4. EMMANUEL MOMANYI 
+    1. Name: Rose Gitungo - rgitungo@kabarak.ac.ke
+    2. Edwin Wachira - erukuno@kabarak.ac.ke
+    3. Peter Rogendo - progendo@kabarak.ac.ke
+    4. Emmanuel Momanyi -  
 
 ## 1.1: Problem Statement
 The restocking of Malaria commodities is currently done based on 6 month averages computed by MoH officials from the KHIS system data. These averages do not paint a clear picture of trends related to consumption such as seasonality, increases or decreases as well as other confounding factors.
