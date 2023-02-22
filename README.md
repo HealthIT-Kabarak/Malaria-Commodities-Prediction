@@ -14,7 +14,7 @@ The restocking of Malaria commodities is currently done based on 6 month average
   
 ## 1.3 Installation
   
-  ### 1.3.1: CLoning the Project
+  ### 1.3.1: Cloning the Project
       git clone https://github.com/HealthIT-Kabarak/Malaria-Commodities-Restocking-Prediction-Model.git
       
   ### 1.3. 2: Install necessary packages for this project
